@@ -1,0 +1,41 @@
+
+.started-content {
+  padding-left: 30px;
+  padding-right: 30px;
+  display: block;
+  text-align: center;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: .2rem;
+}
+
+h{
+  font-family: 'Lora', serif;
+
+}
+p{
+  font-family: 'Alegreya', serif;
+  font-size: 1.1rem;
+
+}
+.small {
+  margin: 0 auto;
+  margin-top: -20px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  text-align: center;
+  position: relative;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.ce {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fa-linkedin{
+
+color: blue;
+}
